@@ -1,0 +1,126 @@
+@import 'variables.css';
+
+body {
+    background-color: var(--md-blue);
+    color: var(--wh-gray);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.head {
+    background-color: var(--dk-blue);
+    color: var(--wh-gray);
+    margin: auto;
+    padding: 50px;
+}
+
+.head * {
+    margin: 0px;
+    padding: 0px;
+}
+
+.head .button {
+    text-align: center;
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+    color: var(--wh-gray)
+}
+
+.head img {
+    height: 30px;
+}
+
+/* List */
+.nav {
+    background-color: var(--black);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    padding: 10px 0px;
+    margin: 0 auto;
+}
+
+.nav li {
+    margin: 0 10px;
+}
+
+.nav li a {
+    color: var(--wh-gray);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--black);
+    background-color: var(--md-blue);
+}
+
+a:focus {
+    font-weight: bold;
+}
+
+a:visited {
+    background-color: var(--md-blue);
+}
+
+.description {
+    padding: 10px;
+}
+
+/*
+* Structure
+* --------------- *
+* Main Card [div]
+* * h2
+* * Sub Card [div]
+* * * h3
+* * * Child Card [a]
+* * * * [div]
+* * * * * h4 -> p 
+*/
+
+.preq {
+    margin: 30px;
+    padding: 10px;
+}
+
+.main-card h2 {
+    background-color: var(--black);
+    color: var(--wh-gray);
+    margin: 0;
+    padding: 5px;
+}
+
+.sub-card h3 {
+    background-color: var(--md-blue);
+    color: var(--wh-gray);
+    margin: 0px;
+    padding: 5px;
+}
+
+.child-card div {
+    background-color: var(--dk-blue);
+    color: var(--wh-gray);
+}
+
+.child-card h4,
+p {
+    margin: 0px;
+    padding: 10px;
+}
+
+.child-card p {
+    font-style: italic;
+}
+
+.child-card div:hover {
+    color: var(--lg-gray);
+    background-color: var(--black);
+}
+
+.child-card:visited {
+    background-color: blue;
+}

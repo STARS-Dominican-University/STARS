@@ -1,0 +1,194 @@
+{
+    "team": [
+        {
+            "name": "Pablo Cesar Bedolla Ortiz",
+            "major": "Mathematics and Aerospace Engineering",
+            "university": "Dominican University",
+            "links": [
+                {
+                    "site": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/bedolpab/"
+                },
+                {
+                    "site": "Github",
+                    "url": "https://github.com/bedolpab"
+                }
+            ],
+            "role": "Co-Founder & Lead Engineer",
+            "email": "pbedollaortiz@my.dom.edu"
+        },
+        {
+            "name": "Julio Rodriguez",
+            "major": "Computer Science",
+            "university": "Dominican University",
+            "links": [
+                {
+                    "site": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/#/"
+                },
+                {
+                    "site": "Github",
+                    "url": "https://github.com/JulioRdgz"
+                }
+            ],
+            "role": "Co-Founder & Lead Engineer",
+            "email": "Jrodriguez29@my.dom.edu"
+        },
+        {
+            "name": "Kevin Ruiz",
+            "major": "Civil Engineering",
+            "university": "Dominican University",
+            "links": [
+                {
+                    "site": "LinkedIn",
+                    "url": "#"
+                },
+                {
+                    "site": "Github",
+                    "url": "#"
+                }
+            ],
+            "role": "Engineering Team",
+            "email": "kevinaruiz9@gmail.com"
+        },
+        {
+            "name": "Aaron Jimenez Gomez",
+            "major": "Mathematics & Computer Science",
+            "university": "Dominican University",
+            "links": [
+                {
+                    "site": "LinkedIn",
+                    "url": "#"
+                },
+                {
+                    "site": "Github",
+                    "url": "#"
+                }
+            ],
+            "role": "Software Team",
+            "email": "aaronjimenezg4@gmail.com"
+        },
+        {
+            "name": "Kacper Rogalski",
+            "major": "Mathematics",
+            "university": "Dominican University",
+            "links": [
+                {
+                    "site": "LinkedIn",
+                    "url": "#"
+                },
+                {
+                    "site": "Github",
+                    "url": "#"
+                }
+            ],
+            "role": "Research Team",
+            "email": "durude121@gmail.com"
+        },
+        {
+            "name": "Marlon Selvi",
+            "major": "Computer Science",
+            "university": "Dominican University",
+            "links": [
+                {
+                    "site": "LinkedIn",
+                    "url": "#"
+                },
+                {
+                    "site": "Github",
+                    "url": "#"
+                }
+            ],
+            "role": "Software Team",
+            "email": "Marlonsb0502@gmail.com"
+        },
+        {
+            "name": "Jorge Cano",
+            "major": "Computer Science",
+            "university": "Dominican University",
+            "links": [
+                {
+                    "site": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/#/"
+                },
+                {
+                    "site": "Github",
+                    "url": "https://github.com/#"
+                }
+            ],
+            "role": "Software Team",
+            "email": "jcano1@my.dom.edu"
+        },
+        {
+            "name": "Lorena Murguia",
+            "major": "English",
+            "university": "Dominican University",
+            "links": [
+                {
+                    "site": "LinkedIn",
+                    "url": "#"
+                },
+                {
+                    "site": "Github",
+                    "url": "#"
+                }
+            ],
+            "role": "Project Management",
+            "email": "lmurguia@my.dom.edu"
+        },
+        {
+            "name": "Allison Pea",
+            "major": "Fashion Merchandising",
+            "university": "Dominican University",
+            "links": [
+                {
+                    "site": "LinkedIn",
+                    "url": "#"
+                },
+                {
+                    "site": "Github",
+                    "url": "#"
+                }
+            ],
+            "role": "Project Management",
+            "email": "allisonpea@icloud.com"
+        },
+        {
+            "name": "Gillian Adkins",
+            "major": "English",
+            "university": "Dominican University",
+            "links": [
+                {
+                    "site": "LinkedIn",
+                    "url": "#"
+                },
+                {
+                    "site": "Github",
+                    "url": "#"
+                }
+            ],
+            "role": "Project Management",
+            "email": "g.adkins943@gmail.com"
+        }
+    ],
+    "faculty": [
+        {
+            "name": "Sara Quinn",
+            "department": "Rosary College of Arts and Sciences",
+            "university": "Dominican University",
+            "email": "squinn@dom.edu"
+        },
+        {
+            "name": "Ariel Rogers",
+            "department": "Rosary College of Arts and Sciences",
+            "university": "Dominican University",
+            "email": "arogers2@dom.edu"
+        },
+        {
+            "name": "Kevin Murphy",
+            "department": "Rosary College of Arts and Sciences",
+            "university": "Dominican University",
+            "email": "kmurphy3@dom.edu"
+        }
+    ]
+}
